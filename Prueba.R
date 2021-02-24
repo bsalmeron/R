@@ -77,7 +77,7 @@ data_Agrupada = summarise(grupos_tipodeAhorro_Edad,
 )
 
 
-
+Hola 
 
 grupos_tipodeAhorro_Edad <- group_by(datos,Tipo.de.Ahorro, Edad)
 
